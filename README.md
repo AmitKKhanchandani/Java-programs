@@ -20,3 +20,10 @@ The latest release of the Java Standard Edition is Java SE 8. With the advanceme
 
 [Java Platform Standard Edition 8 Documentation
 ](https://docs.oracle.com/javase/8/docs/)
+
+
+
+-----------------------
+
+This repository contains complete code for Java blog posts on [amitk.co.in](http://www.amitk.co.in)
+-----------
