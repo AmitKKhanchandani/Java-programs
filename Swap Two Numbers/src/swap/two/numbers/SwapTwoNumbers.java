@@ -13,7 +13,7 @@ public class SwapTwoNumbers {
 
     
     public static void main(String[] args) {
-        Scanner s=new Scanner(System.in);
+        Scanner s=new Scanner(System.in);  // Explore More About Scanner Class http://amitk.ml/JavaScannerAPI
         int num1,num2,swap;
         System.out.println("Enter 1st number");
         
